@@ -7,7 +7,7 @@ TG_TOKEN = "8493627694:AAGDVaKbjkutQh_jhgDJzaIe83IFIsDKVTI"
 API_BASE = "https://flamelk-likes.onrender.com"
 ADMIN_ID = 6425423910
 REGION_DEFAULT = "BD"
-DAILY_LIMIT = 200
+DAILY_LIMIT = 100
 
 user_daily_count = {}
 
