@@ -3,10 +3,10 @@ from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 
 # ডিফল্ট সেটিংস (তোমার টোকেন, API URL, ইত্যাদি এখানে বসানো)
-TG_TOKEN = "8493627694:AAGDVaKbjkutQh_jhgDJzaIe83IFIsDKVTI"
+TG_TOKEN = "8341027913:AAFOh6mr3VNrD2XMOFRrYqes_c0wmQZ86CI"
 API_BASE = "https://flamelk-likes.onrender.com"
-ADMIN_ID = 6425423910
-REGION_DEFAULT = "BD"
+ADMIN_ID = 5545907758
+REGION_DEFAULT = "ME"
 DAILY_LIMIT = 100
 
 user_daily_count = {}
